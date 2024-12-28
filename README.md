@@ -10,4 +10,4 @@ When ever we run the index.html file it open a website which takes input from th
 2.Tansaction amount 
 3.Credit/debit
 4.Data of transaction
-When we submit the data will be stored in database in localhost:27017 in the name of digital_wallet
+## When we submit , the data will be stored in database in localhost:27017 in the name of digital_wallet
